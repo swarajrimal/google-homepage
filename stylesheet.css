@@ -1,0 +1,138 @@
+#main
+{
+	position: absolute;
+	margin: 170px 420px 200px 420px;
+	text-align: center;
+}
+
+.logo
+{
+	height: 85px;
+	width: 255px;
+	padding-bottom: 25px;
+}
+
+#header
+{
+	position: fixed;
+	height: 50px;
+	width: 100%;
+	top: 0;
+	left: 0;
+}
+
+.links
+{
+	font-size: 12px;
+	float: right;
+	margin: 20px auto;
+	font-family: arial;
+	margin-right: 25px;
+}
+
+a
+{
+	text-decoration: none;
+
+}
+
+a:hover
+{
+	text-decoration: underline;
+}
+
+.box
+{
+	padding: 0px 5px;
+	color: black;
+}
+
+.sign
+{
+	padding: 7px 12px;
+	text-align: center;
+	font-weight: bolder;
+	background-color: #4285f4;
+	color: white;
+}
+
+.textbox
+{
+	height: 20px;
+	width: 500px;
+	padding: 2.5px 9px 2.5px 8px;
+	border: 1px solid gray;
+	font-size: 15px;
+}
+
+.button
+{
+	position: relative;
+	margin-top: 15px;
+	text-align: center;
+	font-size: 10px;
+	font-weight: bolder;
+	border: 1px solid gray;
+	background-color: #f1f1f1;
+	padding: 7px 5px;
+}
+
+#footer
+{
+	display: block;
+	position: fixed;	
+	height: 35px;
+	width: 100%;
+	bottom: 0;
+	left: 0;
+	background-color: #f1f1f1
+}
+
+.b-box
+{
+	padding: 0px 12px;
+	color: gray;
+}
+
+.left,.right
+{
+	font-size: 12px;
+	margin: 10px auto;
+	font-family: arial;
+}
+
+.left
+{
+	float: left;
+	margin-left: 20px;
+}
+
+.right
+{
+	float: right;
+	margin-right: 20px;
+}
+
+.mic
+{
+	height: 22px;
+	width: 20px;
+	position: relative;
+	margin-top: -22px;
+	float: right;
+	padding-right: 2px;
+}
+
+.miclogo
+{
+	height: 17px;
+	width: 13px;
+	opacity: 0.6;
+}
+
+.miclogo:hover
+{
+	opacity: 0.8;
+}
+
+
